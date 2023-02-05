@@ -6,8 +6,8 @@ let yArray=[7,8,14,9,9,9,10,11,14,14,15]
 let data=[{
     x:xArray,
     y:yArray,
-    mode:'line',
-    type:'line'
+    mode:'lines',
+    type:'scatter'
 }]
 
 // define layout
